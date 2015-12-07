@@ -1,0 +1,10 @@
+name: "Slashboom"
+description: "Stuff worth sharing: news, buzz, ideas ..."
+facebook_id: slashboom
+
+markdown: rdiscount
+permalink: /:title/
+
+#url: "http://mqhub.github.io"
+#paginate: 10
+
