@@ -2,7 +2,7 @@ name: "Slashboom"
 description: "Stuff worth sharing: news, buzz, ideas ..."
 facebook_id: slashboom
 
-markdown: rdiscount
+markdown: kramdown
 permalink: /:title/
 
 #url: "http://mqhub.github.io"
